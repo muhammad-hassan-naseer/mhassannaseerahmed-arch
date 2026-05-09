@@ -1,5 +1,5 @@
-# Hi there, I'm Hassan Naseer Ahmed! 
-![Banner](github_profile_banner_1778313202549.png)
+# Hi there, I'm Hassan Naseer Ahmed!
+![Banner](github_profile_banner.png)
 
 ## About Me
 I am a passionate Full-Stack Developer specializing in SaaS Architecture and AI Integration.
@@ -16,4 +16,3 @@ I am a passionate Full-Stack Developer specializing in SaaS Architecture and AI 
          
           - ---
           Reach me at: [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-naseer-940b41263/)
-          
